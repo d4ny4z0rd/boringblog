@@ -61,7 +61,7 @@ const page = () => {
 	return (
 		<div className="">
 			<div className=" text-center">
-				<h1 className="text-4xl">Post what's on your mind</h1>
+				<h1 className="text-4xl">Post what&apos;s on your mind</h1>
 			</div>
 			<form onSubmit={onSubmit} className=" mx-auto py-12">
 				<div>
